@@ -1,12 +1,12 @@
-package com.rainchat.villagesaddons.multyflags;
+package com.rainchat.villagesaddons.multiflags;
 
 import com.rainchat.villages.Villages;
 import com.rainchat.villages.api.VillagesApi;
 import com.rainchat.villages.data.VillageExtension;
 import com.rainchat.villages.data.flags.FlagVillage;
 import com.rainchat.villages.managers.FlagManager;
-import com.rainchat.villagesaddons.multyflags.Listener.TrampleCrops;
-import com.rainchat.villagesaddons.multyflags.Listener.Use;
+import com.rainchat.villagesaddons.multiflags.Listener.TrampleCrops;
+import com.rainchat.villagesaddons.multiflags.Listener.Use;
 import org.bukkit.Material;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.plugin.Plugin;

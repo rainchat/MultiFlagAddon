@@ -1,5 +1,5 @@
 name: MultiFlags
 version: ${project.version}
-main: com.rainchat.villagesaddons.multyflags.MultyFlags
+main: com.rainchat.villagesaddons.multiflags.MultiFlags
 api-version: 1.17
 authors: [ raib_chat ]
